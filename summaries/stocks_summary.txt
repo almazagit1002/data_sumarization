@@ -1,0 +1,149 @@
+SUMMARY REPORT FOR: STOCKS
+============================================================
+Date Range: 2020-06-08 to 2025-06-06
+Shape: 1302 rows × 12 columns
+
+
+--- S&P500 ---
+Latest Value: 6000.36
+Value Range: 3002.10 to 6144.15
+MA20: 5910.25
+MA50: 5626.00
+MA200: 5805.81
+QoQ Avg Return: 3.62%
+YoY Avg Return: 11.40%
+30-Day Volatility: 1.00%
+Max Drawdown: -25.43%
+Trend Slope (lin. reg.): 1.7219
+
+--- NASDAQ ---
+Latest Value: 19529.95
+Value Range: 9492.73 to 20173.89
+MA20: 19128.54
+MA50: 17820.28
+MA200: 18555.31
+QoQ Avg Return: 3.88%
+YoY Avg Return: 12.30%
+30-Day Volatility: 1.34%
+Max Drawdown: -36.40%
+Trend Slope (lin. reg.): 4.8781
+
+--- Dow Jones ---
+Latest Value: 42762.87
+Value Range: 25015.55 to 45014.04
+MA20: 42280.40
+MA50: 41030.38
+MA200: 42518.71
+QoQ Avg Return: 2.77%
+YoY Avg Return: 7.41%
+30-Day Volatility: 0.88%
+Max Drawdown: -21.94%
+Trend Slope (lin. reg.): 10.0232
+
+--- FTSE250 ---
+Latest Value: 21157.28
+Value Range: 16611.16 to 24250.83
+MA20: 20933.28
+MA50: 20016.62
+MA200: 20442.46
+QoQ Avg Return: 1.30%
+YoY Avg Return: 1.33%
+30-Day Volatility: 0.94%
+Max Drawdown: -31.50%
+Trend Slope (lin. reg.): -0.4047
+
+--- DAX ---
+Latest Value: 24304.46
+Value Range: 11556.48 to 24323.58
+MA20: 23953.36
+MA50: 22672.41
+MA200: 20993.02
+QoQ Avg Return: 3.71%
+YoY Avg Return: 12.95%
+30-Day Volatility: 1.02%
+Max Drawdown: -26.40%
+Trend Slope (lin. reg.): 5.9553
+
+--- Nikkei225 ---
+Latest Value: 37741.61
+Value Range: 21530.95 to 42224.02
+MA20: 37663.77
+MA50: 36082.86
+MA200: 37919.23
+QoQ Avg Return: 2.98%
+YoY Avg Return: 7.59%
+30-Day Volatility: 1.16%
+Max Drawdown: -26.26%
+Trend Slope (lin. reg.): 11.8743
+
+--- Shanghai ---
+Latest Value: 3385.36
+Value Range: 2702.18 to 3715.37
+MA20: 3368.06
+MA50: 3315.81
+MA200: 3269.33
+QoQ Avg Return: 0.79%
+YoY Avg Return: -0.07%
+30-Day Volatility: 0.92%
+Max Drawdown: -27.27%
+Trend Slope (lin. reg.): -0.2731
+
+--- Russell2000 ---
+Latest Value: 211.90
+Value Range: 131.12 to 242.40
+MA20: 207.07
+MA50: 197.59
+MA200: 215.93
+QoQ Avg Return: 2.57%
+YoY Avg Return: 2.96%
+30-Day Volatility: 1.39%
+Max Drawdown: -32.27%
+Trend Slope (lin. reg.): 0.0191
+
+--- MSCI Emerging Markets ---
+Latest Value: 46.92
+Value Range: 31.78 to 52.82
+MA20: 46.18
+MA50: 44.16
+MA200: 43.61
+QoQ Avg Return: 1.63%
+YoY Avg Return: 0.69%
+30-Day Volatility: 1.11%
+Max Drawdown: -39.82%
+Trend Slope (lin. reg.): -0.0031
+
+--- MSCI World ---
+Latest Value: 165.85
+Value Range: 87.17 to 165.85
+MA20: 163.10
+MA50: 155.22
+MA200: 156.99
+QoQ Avg Return: 3.36%
+YoY Avg Return: 9.63%
+30-Day Volatility: 0.95%
+Max Drawdown: -26.23%
+Trend Slope (lin. reg.): 0.0396
+
+--- All Country World ---
+Latest Value: 125.76
+Value Range: 66.11 to 125.76
+MA20: 123.76
+MA50: 117.86
+MA200: 118.65
+QoQ Avg Return: 3.37%
+YoY Avg Return: 9.41%
+30-Day Volatility: 0.94%
+Max Drawdown: -26.42%
+Trend Slope (lin. reg.): 0.0294
+
+--- Euro Stoxx 50 ---
+Latest Value: 60.14
+Value Range: 30.53 to 60.14
+MA20: 59.27
+MA50: 56.41
+MA200: 52.78
+QoQ Avg Return: 3.56%
+YoY Avg Return: 9.87%
+30-Day Volatility: 1.21%
+Max Drawdown: -35.05%
+Trend Slope (lin. reg.): 0.0127

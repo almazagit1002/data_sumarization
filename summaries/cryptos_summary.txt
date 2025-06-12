@@ -1,0 +1,65 @@
+SUMMARY REPORT FOR: CRYPTOS
+============================================================
+Date Range: 2020-06-08 to 2025-06-06
+Shape: 1825 rows × 5 columns
+
+
+--- BTC ---
+Latest Value: 104448.90
+Value Range: 9040.05 to 110875.70
+MA20: 106438.38
+MA50: 100478.87
+MA200: 95180.99
+QoQ Avg Return: 22.70%
+YoY Avg Return: 56.68%
+30-Day Volatility: 2.92%
+Max Drawdown: -76.64%
+Trend Slope (lin. reg.): 31.3560
+
+--- ETH ---
+Latest Value: 2493.01
+Value Range: 221.92 to 4780.08
+MA20: 2553.23
+MA50: 2224.70
+MA200: 2669.38
+QoQ Avg Return: 23.44%
+YoY Avg Return: 88.21%
+30-Day Volatility: 3.83%
+Max Drawdown: -80.30%
+Trend Slope (lin. reg.): 0.7771
+
+--- XRP ---
+Latest Value: 2.17
+Value Range: 0.18 to 3.27
+MA20: 2.28
+MA50: 2.27
+MA200: 2.34
+QoQ Avg Return: 25.43%
+YoY Avg Return: 106.75%
+30-Day Volatility: 4.82%
+Max Drawdown: -83.19%
+Trend Slope (lin. reg.): 0.0006
+
+--- BNB ---
+Latest Value: 646.39
+Value Range: 15.24 to 749.51
+MA20: 663.84
+MA50: 635.40
+MA200: 644.99
+QoQ Avg Return: 49.04%
+YoY Avg Return: 273.04%
+30-Day Volatility: 3.70%
+Max Drawdown: -71.16%
+Trend Slope (lin. reg.): 0.2500
+
+--- SOL ---
+Latest Value: 149.29
+Value Range: 0.57 to 259.99
+MA20: 165.08
+MA50: 158.74
+MA200: 177.95
+QoQ Avg Return: 108.93%
+YoY Avg Return: 2411.22%
+30-Day Volatility: 6.01%
+Max Drawdown: -96.48%
+Trend Slope (lin. reg.): 0.0793

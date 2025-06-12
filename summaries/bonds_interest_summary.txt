@@ -1,0 +1,161 @@
+SUMMARY REPORT FOR: BONDS_INTEREST
+============================================================
+Date Range: 2020-06-08 to 2025-06-06
+Shape: 1321 rows × 13 columns
+
+
+--- iShares 20+ Year Treasury Bond ETF ---
+Latest Value: 85.35
+Value Range: 82.77 to 169.33
+MA20: 85.56
+MA50: 87.35
+MA200: 90.52
+QoQ Avg Return: -2.84%
+YoY Avg Return: -10.52%
+30-Day Volatility: 0.95%
+Max Drawdown: -51.12%
+Trend Slope (lin. reg.): -0.0630
+
+--- iShares 7-10 Year Treasury Bond ETF ---
+Latest Value: 93.51
+Value Range: 88.95 to 121.91
+MA20: 93.89
+MA50: 94.51
+MA200: 94.52
+QoQ Avg Return: -1.20%
+YoY Avg Return: -4.49%
+30-Day Volatility: 0.44%
+Max Drawdown: -27.04%
+Trend Slope (lin. reg.): -0.0241
+
+--- iShares 1-3 Year Treasury Bond ETF ---
+Latest Value: 82.21
+Value Range: 80.51 to 86.21
+MA20: 82.41
+MA50: 82.57
+MA200: 82.38
+QoQ Avg Return: -0.23%
+YoY Avg Return: -0.88%
+30-Day Volatility: 0.11%
+Max Drawdown: -6.62%
+Trend Slope (lin. reg.): -0.0041
+
+--- Vanguard Total Bond Market ETF ---
+Latest Value: 72.20
+Value Range: 68.04 to 86.32
+MA20: 72.37
+MA50: 72.66
+MA200: 73.00
+QoQ Avg Return: -0.77%
+YoY Avg Return: -3.10%
+30-Day Volatility: 0.34%
+Max Drawdown: -21.17%
+Trend Slope (lin. reg.): -0.0121
+
+--- iShares Core U.S. Aggregate Bond ETF ---
+Latest Value: 97.28
+Value Range: 91.67 to 117.93
+MA20: 97.50
+MA50: 97.89
+MA200: 98.35
+QoQ Avg Return: -0.83%
+YoY Avg Return: -3.41%
+30-Day Volatility: 0.34%
+Max Drawdown: -22.27%
+Trend Slope (lin. reg.): -0.0182
+
+--- iShares TIPS Bond ETF ---
+Latest Value: 108.07
+Value Range: 102.12 to 127.78
+MA20: 108.64
+MA50: 109.09
+MA200: 108.73
+QoQ Avg Return: -0.39%
+YoY Avg Return: -2.30%
+30-Day Volatility: 0.36%
+Max Drawdown: -20.08%
+Trend Slope (lin. reg.): -0.0161
+
+--- iShares iBoxx $ Investment Grade Corporate Bond ETF ---
+Latest Value: 106.92
+Value Range: 98.28 to 136.44
+MA20: 106.92
+MA50: 107.00
+MA200: 108.58
+QoQ Avg Return: -0.91%
+YoY Avg Return: -4.31%
+30-Day Volatility: 0.50%
+Max Drawdown: -27.97%
+Trend Slope (lin. reg.): -0.0253
+
+--- iShares iBoxx $ High Yield Corporate Bond ETF ---
+Latest Value: 79.30
+Value Range: 70.86 to 86.53
+MA20: 79.29
+MA50: 78.46
+MA200: 79.19
+QoQ Avg Return: 0.13%
+YoY Avg Return: -1.16%
+30-Day Volatility: 0.42%
+Max Drawdown: -18.11%
+Trend Slope (lin. reg.): -0.0060
+
+--- SPDR Bloomberg High Yield Bond ETF ---
+Latest Value: 95.62
+Value Range: 87.00 to 107.81
+MA20: 95.57
+MA50: 94.56
+MA200: 95.99
+QoQ Avg Return: 0.02%
+YoY Avg Return: -1.73%
+30-Day Volatility: 0.42%
+Max Drawdown: -19.30%
+Trend Slope (lin. reg.): -0.0096
+
+--- SPDR Bloomberg 1-3 Month T-Bill ETF ---
+Latest Value: 91.50
+Value Range: 91.09 to 91.86
+MA20: 91.59
+MA50: 91.57
+MA200: 91.59
+QoQ Avg Return: 0.02%
+YoY Avg Return: 0.06%
+30-Day Volatility: 0.04%
+Max Drawdown: -0.70%
+Trend Slope (lin. reg.): 0.0005
+
+--- Global X Interest Rate Hedge ETF ---
+Latest Value: 18.81
+Value Range: 17.12 to 34.92
+MA20: 19.03
+MA50: 18.99
+MA200: 19.29
+QoQ Avg Return: -0.72%
+YoY Avg Return: -4.74%
+30-Day Volatility: 1.13%
+Max Drawdown: -50.98%
+Trend Slope (lin. reg.): -0.0057
+
+--- 10_Year_Treasury ---
+Latest Value: 4.40
+Value Range: 0.52 to 4.98
+MA20: 4.46
+MA50: 4.36
+MA200: 4.31
+QoQ Avg Return: 12.29%
+YoY Avg Return: 46.56%
+30-Day Volatility: 2.25%
+Max Drawdown: -38.10%
+Trend Slope (lin. reg.): 0.0033
+
+--- 3_Month_Treasury ---
+Latest Value: 4.25
+Value Range: 0.01 to 5.36
+MA20: 4.26
+MA50: 4.23
+MA200: 4.32
+QoQ Avg Return: 54.32%
+YoY Avg Return: 1407.22%
+30-Day Volatility: 7.20%
+Max Drawdown: -94.74%
+Trend Slope (lin. reg.): 0.0051

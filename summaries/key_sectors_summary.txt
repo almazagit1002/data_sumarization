@@ -1,0 +1,89 @@
+SUMMARY REPORT FOR: KEY_SECTORS
+============================================================
+Date Range: 2020-06-08 to 2025-06-06
+Shape: 1257 rows × 7 columns
+
+
+--- Technology ---
+Latest Value: 238.36
+Value Range: 96.02 to 242.18
+MA20: 232.09
+MA50: 214.41
+MA200: 224.73
+QoQ Avg Return: 4.88%
+YoY Avg Return: 16.96%
+30-Day Volatility: 1.51%
+Max Drawdown: -33.56%
+Trend Slope (lin. reg.): 0.0940
+
+--- Energy ---
+Latest Value: 83.41
+Value Range: 25.31 to 98.08
+MA20: 83.22
+MA50: 82.96
+MA200: 88.25
+QoQ Avg Return: 5.57%
+YoY Avg Return: 22.27%
+30-Day Volatility: 1.76%
+Max Drawdown: -39.12%
+Trend Slope (lin. reg.): 0.0519
+
+--- Consumer Staples ---
+Latest Value: 81.69
+Value Range: 53.94 to 84.26
+MA20: 81.71
+MA50: 81.15
+MA200: 81.01
+QoQ Avg Return: 2.12%
+YoY Avg Return: 5.07%
+30-Day Volatility: 0.80%
+Max Drawdown: -16.66%
+Trend Slope (lin. reg.): 0.0151
+
+--- Consumer Discretionary ---
+Latest Value: 212.17
+Value Range: 121.79 to 239.43
+MA20: 213.72
+MA50: 201.35
+MA200: 208.51
+QoQ Avg Return: 3.25%
+YoY Avg Return: 9.99%
+30-Day Volatility: 1.41%
+Max Drawdown: -39.84%
+Trend Slope (lin. reg.): 0.0364
+
+--- Healthcare ---
+Latest Value: 134.38
+Value Range: 93.32 to 157.24
+MA20: 132.48
+MA50: 135.83
+MA200: 144.69
+QoQ Avg Return: 1.87%
+YoY Avg Return: 4.50%
+30-Day Volatility: 0.88%
+Max Drawdown: -18.11%
+Trend Slope (lin. reg.): 0.0319
+
+--- Industrials ---
+Latest Value: 144.93
+Value Range: 63.95 to 144.93
+MA20: 142.30
+MA50: 133.78
+MA200: 135.06
+QoQ Avg Return: 4.33%
+YoY Avg Return: 11.34%
+30-Day Volatility: 1.09%
+Max Drawdown: -21.64%
+Trend Slope (lin. reg.): 0.0447
+
+--- Materials ---
+Latest Value: 87.78
+Value Range: 51.39 to 97.63
+MA20: 86.57
+MA50: 83.99
+MA200: 89.06
+QoQ Avg Return: 2.86%
+YoY Avg Return: 5.48%
+30-Day Volatility: 1.18%
+Max Drawdown: -24.72%
+Trend Slope (lin. reg.): 0.0178

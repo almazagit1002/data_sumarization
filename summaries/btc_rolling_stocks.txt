@@ -1,0 +1,21 @@
+DAX
+Correlation (r) > 0.8 → Strong Positive Correlation
+
+BTC tends to move with DAX (German market sentiment).
+
+Strategy: Use DAX market open & trend as early signals for BTC moves.
+
+Correlation ~0.7–0.79 → Moderate Correlation
+
+BTC may follow, but not reliably.
+
+Dow Jones:
+Correlation (r) > 0.8 → Strong Positive Correlation
+
+BTC tends to move in sync with U.S. equity market trends (Dow Jones).
+
+Strategy: Use Dow Jones market direction to anticipate BTC intraday moves.
+
+Moderate Correlation (r ~ 0.75–0.79):
+
+BTC may reflect broader sentiment but not always directly.

@@ -1,0 +1,113 @@
+SUMMARY REPORT FOR: FINANCIAL
+============================================================
+Date Range: 2020-06-08 to 2025-06-06
+Shape: 1257 rows × 9 columns
+
+
+--- US Financials ETF ---
+Latest Value: 51.28
+Value Range: 21.64 to 52.19
+MA20: 50.86
+MA50: 49.05
+MA200: 48.55
+QoQ Avg Return: 4.65%
+YoY Avg Return: 13.64%
+30-Day Volatility: 1.20%
+Max Drawdown: -25.82%
+Trend Slope (lin. reg.): 0.0157
+
+--- European Banks ETF ---
+Latest Value: 32.27
+Value Range: 12.13 to 32.27
+MA20: 31.58
+MA50: 29.82
+MA200: 26.14
+QoQ Avg Return: 5.19%
+YoY Avg Return: 15.84%
+30-Day Volatility: 1.36%
+Max Drawdown: -35.16%
+Trend Slope (lin. reg.): 0.0090
+
+--- Global Financials ETF ---
+Latest Value: 110.16
+Value Range: 49.41 to 110.16
+MA20: 108.32
+MA50: 103.54
+MA200: 99.45
+QoQ Avg Return: 4.32%
+YoY Avg Return: 12.37%
+30-Day Volatility: 1.11%
+Max Drawdown: -27.19%
+Trend Slope (lin. reg.): 0.0291
+
+--- Asia-Pacific ETF ---
+Latest Value: 78.45
+Value Range: 45.30 to 100.26
+MA20: 76.34
+MA50: 72.11
+MA200: 71.27
+QoQ Avg Return: 1.62%
+YoY Avg Return: -0.34%
+30-Day Volatility: 1.50%
+Max Drawdown: -54.82%
+Trend Slope (lin. reg.): -0.0140
+
+--- China Financials ETF ---
+Latest Value: 36.59
+Value Range: 20.95 to 53.46
+MA20: 35.83
+MA50: 34.58
+MA200: 32.27
+QoQ Avg Return: 0.37%
+YoY Avg Return: -2.12%
+30-Day Volatility: 1.92%
+Max Drawdown: -60.81%
+Trend Slope (lin. reg.): -0.0148
+
+--- Japan Banks ETF ---
+Latest Value: 73.82
+Value Range: 48.44 to 75.04
+MA20: 73.19
+MA50: 70.37
+MA200: 69.50
+QoQ Avg Return: 1.93%
+YoY Avg Return: 3.14%
+30-Day Volatility: 1.07%
+Max Drawdown: -33.14%
+Trend Slope (lin. reg.): 0.0067
+
+--- Latin America Financials ETF ---
+Latest Value: 25.61
+Value Range: 18.14 to 29.87
+MA20: 25.70
+MA50: 24.56
+MA200: 24.10
+QoQ Avg Return: 2.63%
+YoY Avg Return: 1.90%
+30-Day Volatility: 1.54%
+Max Drawdown: -30.14%
+Trend Slope (lin. reg.): 0.0021
+
+--- Canada Banks ETF ---
+Latest Value: 45.39
+Value Range: 24.04 to 45.39
+MA20: 44.36
+MA50: 42.38
+MA200: 41.49
+QoQ Avg Return: 3.33%
+YoY Avg Return: 9.47%
+30-Day Volatility: 1.07%
+Max Drawdown: -24.80%
+Trend Slope (lin. reg.): 0.0084
+
+--- Australia Banks ETF ---
+Latest Value: 26.37
+Value Range: 17.45 to 27.11
+MA20: 25.68
+MA50: 24.47
+MA200: 25.06
+QoQ Avg Return: 2.31%
+YoY Avg Return: 3.29%
+30-Day Volatility: 1.24%
+Max Drawdown: -24.88%
+Trend Slope (lin. reg.): 0.0024
